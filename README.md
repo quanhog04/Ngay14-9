@@ -1,4 +1,4 @@
-# Ngay14-9
+`Sound`, tạo ra đa hình động.
 | **Ví dụ**          | Lớp `Dog` kế thừa lớp `Animal`               | Phương thức `Sound()` được ghi đè trong lớp `Dog` |
 
 #### Ứng dụng thực tế
